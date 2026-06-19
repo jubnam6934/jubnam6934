@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**jubnam6934/jubnam6934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Jubna Muhammed 
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE (AI) Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Interested in Web Development
+  Exploring Artificial Intelligence
+  Learning Cyber Security
+
+## Skills
+- HTML
+- CSS
+- JavaScript
+- C programming 
+- python basics
+- Git
+- GitHub
+
+## Projects
+- Portfolio Website
+- Food Ordering Website
+
+
+## Connect With Me
+- LinkedIn
+- GitHub 
+
+🚀 Always learning and building new projects.
